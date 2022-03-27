@@ -27,8 +27,7 @@
 	"start": "react-scripts start",
 	"build": "react-scripts build",
 	"test": "react-scripts test",
-	"eject": "react-scripts eject",
-    // ...
+	"eject": "react-scripts eject",    	
   }
   ```
 
@@ -46,7 +45,6 @@
   "homepage": "https://username.github.io/porjectname",
   "version": "0.1.0",
   "private": true,
-  // ...
 }
   ```
 
